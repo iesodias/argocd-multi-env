@@ -54,4 +54,4 @@ patches:
 
 images:
   - name: nginxdemos/hello
-    newTag: latest
+    newTag: 0.4
